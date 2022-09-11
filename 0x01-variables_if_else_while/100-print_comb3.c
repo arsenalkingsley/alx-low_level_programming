@@ -23,7 +23,7 @@ putchar(32);
 }
 n2 += 1;
 }
-ni += 1;
+n1 += 1;
 }
 putchar('\n');
 return (0);
