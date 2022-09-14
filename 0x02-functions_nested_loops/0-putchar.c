@@ -1,4 +1,6 @@
+#include "main.h"
 #include <stdio.h>
+
 /**
  * main - the main programs to print putchar
  * Return:returns 0
