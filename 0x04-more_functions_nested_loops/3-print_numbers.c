@@ -11,5 +11,6 @@ while (c < 58)
 {
 _putchar(c);
 c++;
-}_putchar('\n');
+}
+_putchar('\n');
 }
