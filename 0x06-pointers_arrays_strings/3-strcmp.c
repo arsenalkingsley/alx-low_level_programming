@@ -22,9 +22,10 @@ int i = 0, r;
 while (s1[i] != '\0' && s2[i] != '\0')
 {
 /**
-* if they differ by a single character 
-* don't iterate further
-*/
+ * if they differ by a single character
+ * don't iterate further
+ */
+
 if (s1[i] != s2[i])
 {
 /*
