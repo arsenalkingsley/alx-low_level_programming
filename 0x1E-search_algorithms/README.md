@@ -1,0 +1,1 @@
+THIS IS THE READ ME FILE FOR THE 0x1E-search_algorithms ALX PROJECT
